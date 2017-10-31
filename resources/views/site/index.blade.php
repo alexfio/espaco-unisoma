@@ -46,9 +46,12 @@
             </div>
             <div class="cell-lg-5 cell-lg-preffix-1 cell-md-6 cell-sm-6 cell-xs-12">
               <p class="text-uppercase text-family-sec text-bold">Flávia Rebouças - Psicanalista / Psicopedagoga / Instrutora de Mindfullness</p>
-              <h3>Seja bem-vindo(a) ao meu consultório</h3>
+              <h3>Seja bem-vindo(a) ao Espaço Unisoma</h3>
               <p class="text-gray-light">Como psicanalista e psicopedagoga, trabalho com muitos pacientes e entendo as mais diversas questões psíquicas que as pessoas enfretam.</p>
-              <div class="group-sm"><a class="button button-gray-light" href="overview.html">Mais Informações</a><a class="button button-primary-sec" href="services.html">Serviços</a></div>
+              <div class="group-sm">
+                <a class="button button-gray-light" href="overview.html">Mais Informações</a>
+                <a class="button button-primary-sec" href="{{url('servicos')}}">Serviços</a>
+              </div>
             </div>
           </div>
         </div>
