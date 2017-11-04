@@ -6,8 +6,6 @@
 //    throw new Exception("Isto não parece uma requisição válida do Gitlab.\n");/
 //}
 
-
-
 if ($payload = file_get_contents('php://input')) {
     try {
         $payload = json_decode($payload);
