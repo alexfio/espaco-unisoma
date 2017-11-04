@@ -16,3 +16,4 @@ Route::get('/sobre', "PrincipalController@abrirSobre");
 Route::get('/servicos', "PrincipalController@abrirServicos");
 Route::get('/localizacao', "PrincipalController@abrirLocalizacao");
 Route::get('/agende-uma-consulta', "PrincipalController@abrirAgendarConsulta");
+Route::post('/deploy', "DeployController@deploy");
