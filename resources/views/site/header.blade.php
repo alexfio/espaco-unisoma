@@ -1,4 +1,3 @@
-<!-- Page Header-->
       <header class="page-header">
         <!-- RD Navbar-->
         <div class="rd-navbar-wrap text-left">
