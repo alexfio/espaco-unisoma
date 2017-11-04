@@ -6,7 +6,7 @@
               <div class="rd-navbar-aside-right">
                 <div class="rd-navbar-nav-wrap">
                   <ul class="rd-navbar-nav">
-                    <li class="active"><a href="{{url('/')}}">HOME</a></li>
+                    <li class="active"><a href="{{url('/')}}">Home</a></li>
                     <li><a href="{{url('/sobre')}}">Sobre</a>
                       <ul class="rd-navbar-dropdown">
                         <li><a href="overview.html">A Profissional</a></li>
