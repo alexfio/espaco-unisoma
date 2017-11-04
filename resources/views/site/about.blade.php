@@ -59,70 +59,8 @@
           </div>
         </div>
       </section>
-      <!-- RD Parallax-->
-      <section class="rd-parallax bg-gray-lighter" data-on="false" data-sm-on="true">
-        <div class="rd-parallax-layer" data-speed="0.3" data-type="media" data-url="images/bg-about-01-1920x1140.jpg"></div>
-        <div class="rd-parallax-layer" data-speed="0" data-type="html">
-          <div class="section-lg">
-            <div class="shell">
-              <h2>Media Commentary</h2>
-              <div class="range text-center">
-                <!-- Owl Carousel-->
-                <div class="owl-carousel" data-items="1" data-sm-items="2" data-lg-items="3" data-stage-padding="15" data-loop="false" data-margin="30" data-mouse-drag="true" data-nav="true">
-                  <div class="owl-item">
-                    <div class="post post-reverse">
-                      <div class="post-inset-04">
-                        <h5><a href="single-post.html">‘Don’t You Dare Call Me Drama Queen’</a></h5>
-                        <p>Too frequently I see adolescent girls and adult women who come to therapy 	believing they are overly “dramatic.” They often rely on an emotional coping strategy 	of minimizing and pushing away much.</p>
-                      </div>
-                      <div class="post-inset-02">
-                        <time datetime="2017-01-09">MARCH 25, 2017</time>
-                        <h6>‘Healthy Living’ Magazine</h6><a class="button button-primary-sec" href="single-post.html">Read article</a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="owl-item">
-                    <div class="post post-reverse">
-                      <div class="post-inset-04">
-                        <h5><a href="single-post.html">‘Don’t Raise a Good Girl’</a></h5>
-                        <p>Help Girls to Develop Emotional Awareness: parents should notice if they have anxiety about raising their girl and, as a result of that anxiety, tend to focus her more on being a ‘good girl’ than on helping her to discover her true identity.</p>
-                      </div>
-                      <div class="post-inset-02">
-                        <time datetime="2017-01-09">MARCH 20, 2017</time>
-                        <h6>‘Healthy Living’ Magazine</h6><a class="button button-primary-sec" href="single-post.html">Read article</a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="owl-item">
-                    <div class="post post-reverse">
-                      <div class="post-inset-04">
-                        <h5><a href="single-post.html">‘Women Bullying Women’</a></h5>
-                        <p>Body hatred and women verbally bullying one another are tied together. Culture stigmatizes women who do not meet traditional standards of beauty and, too often, women use this unforgiving reality to harshly judge one another as a means.</p>
-                      </div>
-                      <div class="post-inset-02">
-                        <time datetime="2017-01-09">MARCH 10, 2017</time>
-                        <h6>‘Healthy Living’ Magazine</h6><a class="button button-primary-sec" href="single-post.html">Read article</a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="owl-item">
-                    <div class="post post-reverse">
-                      <div class="post-inset-04">
-                        <h5><a href="single-post.html">‘Don’t You Dare Call Me Drama Queen’</a></h5>
-                        <p>Too frequently I see adolescent girls and adult women who come to therapy 	believing they are overly “dramatic.” They often rely on an emotional coping strategy 	of minimizing and pushing away much.</p>
-                      </div>
-                      <div class="post-inset-02">
-                        <time datetime="2017-01-09">MARCH 25, 2017</time>
-                        <h6>‘Healthy Living’ Magazine</h6><a class="button button-primary-sec" href="single-post.html">Read article</a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+
+    <!--
       <section class="section-lg bg-white">
         <div class="shell">
           <h2>FAQ</h2>
@@ -143,50 +81,8 @@
             </div>
           </div>
         </div>
-      </section>
-      <!-- RD Parallax-->
-      <section class="bg-gray parallax-img-position">
-        <div class="rd-parallax" data-on="false" data-md-on="true">
-          <div class="rd-parallax-layer" data-speed="0.3" data-type="media" data-url="images/bg-about-02-1920x1000.jpg"></div>
-          <div class="rd-parallax-layer" data-speed="0" data-type="html">
-            <div class="section-lg">
-              <div class="shell">
-                <h2>Testimonials</h2>
-                <div class="range range-30">
-                  <div class="cell-md-6 cell-sm-8">
-                    <div class="box-quote bg-quote-01">
-                      <div class="quote">
-                        <p>
-                          <q>Dennis deeply touched my heart during a time in which I so desperately needed someone to support me, regardless of how battered and broken I felt. I am so grateful for knowing his compassion and help. You are a real expert!</q>
-                        </p>
-                        <div>
-                          <h4>
-                            <cite>Samantha Green</cite><span>(housewife)</span>
-                          </h4><a class="hidden button"></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="cell-md-6 cell-sm-8">
-                    <div class="box-quote bg-quote-02">
-                      <div class="quote">
-                        <p>
-                          <q>I like that you not only listened to what I said, but really understood how I was feeling. You not only helped me become a stronger person, but a stronger parent as well. Thanks to you I can now call myself a better parent.</q>
-                        </p>
-                        <div>
-                          <h4>
-                            <cite>John Nelson</cite><span>(manager)</span>
-                          </h4><a class="hidden button"></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div><a class="button button-primary" href="testimonials.html">More testimonials</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      </section> -->
+      
 @endsection      
 
     
