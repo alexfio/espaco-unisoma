@@ -20,7 +20,7 @@
                         <li><a href="press.html">Mindfullness</a></li>
                       </ul>
                     </li>
-                    <li><a href="{{url('servicos')}}">Serviços \o/*</a>
+                    <li><a href="{{url('servicos')}}">Serviços</a>
                       <!-- RD Navbar Dropdown-->
                       <ul class="rd-navbar-dropdown">
                         <li><a href="group-therapy.html">Group therapy</a></li>
