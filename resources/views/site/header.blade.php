@@ -18,7 +18,7 @@
                     </li>
                     <li><a href="{{url('servicos')}}">Serviços</a>
                       <ul class="rd-navbar-dropdown">
-                        <li><a href="group-therapy.html">Terapia</a></li>
+                        <li><a href="group-therapy.html">Tipos de Terapia</a></li>
                       </ul>
                     </li>
                     <li><a href="{{url('localizacao')}}">Localização</a></li>
