@@ -20,6 +20,7 @@ if ($payload = file_get_contents('php://input')) {
     }
     $branch = \explode('/',$payload->ref)[2];
     //put the branch you want here, as well as the directory your site is in
+    echo "teste";
     echo exec("cd /var/www/html/espaco && git fetch origin && git merge origin/$branch");
 
 } else {
