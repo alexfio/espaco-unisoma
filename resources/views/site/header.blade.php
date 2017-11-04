@@ -37,6 +37,7 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <div class="rd-navbar-brand"><a class="brand-name" href="index.html"><img class="logo-brand" src="images/logo_v1-253x56.png" alt="" width="253" height="56"/><img class="fixed-logo" src="images/logo_v1-253x56.png" alt="" width="253" height="56"/></a></div>
+                  <!-- RD Navbar Brand-->
                   <div class="rd-navbar-brand"><a class="brand-name" href="{{url('/')}}"><img class="logo-brand" src="images/logo_v1-253x56.png" alt="" width="253" height="56"/><img class="fixed-logo" src="images/logo_v1-253x56.png" alt="" width="253" height="56"/></a></div>
                 </div>
                 <address class="contact-info rd-navbar-collapse align-between">
