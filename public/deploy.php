@@ -1,2 +1,4 @@
 <?php
-echo 'oi';
+
+$stdin = fopen('php://stdin', 'r');
+echo $stdin;
