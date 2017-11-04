@@ -26,8 +26,6 @@
                         <li><a href="group-therapy.html">Group therapy</a></li>
                       </ul>
                     </li>
-                    
-                    
                     <li><a href="{{url('localizacao')}}">Localização</a></li>
                   </ul><a class="button button-white" href="{{url('/agende-uma-consulta')}}">Agende uma consulta</a>
                 </div>
