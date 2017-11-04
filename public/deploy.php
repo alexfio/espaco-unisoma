@@ -22,7 +22,7 @@ if ($payload = file_get_contents('php://input')) {
     }
     $branch = \explode('/',$payload->ref)[2];
     //put the branch you want here, as well as the directory your site is in
-    var_dump(exec("cd /var/www/html/espaco && git fetch origin && git merge origin/$branch"));
+    exec("cd /var/www/html/espaco && git fetch origin && git merge origin/$branch");
 
 } else {
     echo 'requisição falhou';
