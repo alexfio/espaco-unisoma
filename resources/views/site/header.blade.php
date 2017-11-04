@@ -9,7 +9,7 @@
                 <div class="rd-navbar-nav-wrap">
                   <!-- RD Navbar Nav-->
                   <ul class="rd-navbar-nav">
-                    <li class="active"><a href="{{url('/')}}">Home tes</a></li>
+                    <li class="active"><a href="{{url('/')}}">Home test</a></li>
                     <li><a href="{{url('/sobre')}}">Sobre</a>
                       <!-- RD Navbar Dropdown-->
                       <ul class="rd-navbar-dropdown">
