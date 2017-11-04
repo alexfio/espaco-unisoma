@@ -5,7 +5,6 @@
             <div class="rd-navbar-inner">
               <div class="rd-navbar-aside-right">
                 <div class="rd-navbar-nav-wrap">
-                  <!-- RD Navbar Nav-->
                   <ul class="rd-navbar-nav">
                     <li class="active"><a href="{{url('/')}}">Home</a></li>
                     <li><a href="{{url('/sobre')}}">Sobre</a>
