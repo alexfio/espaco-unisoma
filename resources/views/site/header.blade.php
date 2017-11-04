@@ -9,11 +9,11 @@
                 <div class="rd-navbar-nav-wrap">
                   <!-- RD Navbar Nav-->
                   <ul class="rd-navbar-nav">
-                    <li class="active"><a href="{{url('/')}}">Home\o/*</a></li>
-                    <li><a href="{{url('/sobre')}}">Sobre \o/*</a>
+                    <li class="active"><a href="{{url('/')}}">Home</a></li>
+                    <li><a href="{{url('/sobre')}}">Sobre</a>
                       <!-- RD Navbar Dropdown-->
                       <ul class="rd-navbar-dropdown">
-                        <li><a href="overview.html">A Profissional \o/*</a></li>
+                        <li><a href="overview.html">A Profissional</a></li>
                         <li><a href="faq.html">Perguntas (FAQ)</a></li>
                         <li><a href="press.html">Psicanálise</a></li>
                         <li><a href="press.html">Psicopedagogia</a></li>
