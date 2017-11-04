@@ -21,7 +21,7 @@
                         <li><a href="group-therapy.html">Kind of Therapy</a></li>
                       </ul>
                     </li>
-                    <li><a href="{{url('localizacao')}}">Localização</a></li>
+                    <li><a href="{{url('localizacao')}}">Endereço</a></li>
                   </ul><a class="button button-white" href="{{url('/agende-uma-consulta')}}">Agende uma consulta</a>
                 </div>
               </div>
