@@ -5,7 +5,9 @@
 //if (!in_array($_SERVER['REMOTE_ADDR'], $gitlab_ips)) {
 //    throw new Exception("Isto não parece uma requisição válida do Gitlab.\n");/
 //}
+
 echo file_get_contents('php://input');
+echo 'oi';
 if ($payload = file_get_contents('php://input')) {
     try {
         $payload = json_decode($payload);
