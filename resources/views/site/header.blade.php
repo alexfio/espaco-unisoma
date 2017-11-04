@@ -13,7 +13,7 @@
                     <li><a href="{{url('/sobre')}}">Sobre \o/*</a>
                       <!-- RD Navbar Dropdown-->
                       <ul class="rd-navbar-dropdown">
-                        <li><a href="overview.html">A Profissional</a></li>
+                        <li><a href="overview.html">A Profissional \o/*</a></li>
                         <li><a href="faq.html">Perguntas (FAQ)</a></li>
                         <li><a href="press.html">Psicanálise</a></li>
                         <li><a href="press.html">Psicopedagogia</a></li>
