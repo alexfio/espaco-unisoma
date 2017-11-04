@@ -8,7 +8,6 @@
                   <ul class="rd-navbar-nav">
                     <li class="active"><a href="{{url('/')}}">Home</a></li>
                     <li><a href="{{url('/sobre')}}">Sobre</a>
-                      <!-- RD Navbar Dropdown-->
                       <ul class="rd-navbar-dropdown">
                         <li><a href="overview.html">A Profissional</a></li>
                         <li><a href="faq.html">Perguntas (FAQ)</a></li>
@@ -18,7 +17,6 @@
                       </ul>
                     </li>
                     <li><a href="{{url('servicos')}}">Serviços</a>
-                      <!-- RD Navbar Dropdown-->
                       <ul class="rd-navbar-dropdown">
                         <li><a href="group-therapy.html">Group therapy</a></li>
                       </ul>
@@ -38,7 +36,6 @@
                 <div class="rd-navbar-panel">
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
-                  <!-- RD Navbar Brand-->
                   <div class="rd-navbar-brand"><a class="brand-name" href="index.html"><img class="logo-brand" src="images/logo_v1-253x56.png" alt="" width="253" height="56"/><img class="fixed-logo" src="images/logo_v1-253x56.png" alt="" width="253" height="56"/></a></div>
                 </div>
                 <address class="contact-info rd-navbar-collapse align-between">
