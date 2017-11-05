@@ -14,8 +14,7 @@ class Mensagem {
         
             $this->conteudo = $conteudo;
             $this->dataMensagem = $dataMensagem;
-            $this->visitante = $visitante;
-            
+            $this->visitante = $visitante;  
     }    
 
     public function setId(string $id) {
