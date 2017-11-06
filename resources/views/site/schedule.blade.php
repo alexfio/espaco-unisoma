@@ -23,6 +23,14 @@
                 </span>
             </div>
           @endif
+          @if(old('sucesso'))
+                <div class = "alert alert-success alert-dismissable fade in" style = "position: absolute; top: 5%; right: 35%">
+                <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+                <span> 
+                  Formulário enviado com sucesso !!
+                </span>
+            </div>
+          @endif
           <h2 id = "contato">Entre em contato</h2>
 
           <div class="range">
@@ -38,6 +46,7 @@
                   @endforeach
                 </div>
               @endif
+              
               <!-- RD Mailform-->
               <form  method="post" action="{{action('AgendamentoController@agendar')}}">
                 <input type = 'hidden' name = "_token" value = "{{csrf_token()}}">

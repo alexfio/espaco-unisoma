@@ -27,7 +27,6 @@ class AgendamentoRequest extends FormRequest
             "nome" => "required",
             "sobrenome" => "required",
             "email" => "required|email",
-            "telefone" => "telefone",
             "mensagem" => "required"
         ];
     }
@@ -38,8 +37,7 @@ class AgendamentoRequest extends FormRequest
             "sobrenome.required" => "O campo Sobrenome é obrigatório.",
             "email.required" => "O campo Email é obrigatório.",
             "email.email" => "O Email submetido é inválido.",
-            "mensagem.required" => "O campo Mensagem é obrigatório.",
-            "telefone.telefone" => "O telefone deve obedecer ao padrão: (xx) xxxxx-xxxx.",
+            "mensagem.required" => "O campo Mensagem é obrigatório."
         ];
     }
 }

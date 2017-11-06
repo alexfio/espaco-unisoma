@@ -10,12 +10,10 @@ class Mensagem {
     private $visitante;
 
     public function __construct(
-        string $conteudo, \DateTime $dataMensagem, Visitante $visitante) {
+        string $conteudo,  Visitante $visitante) {
         
             $this->conteudo = $conteudo;
-            $this->dataMensagem = $dataMensagem;
-            $this->visitante = $visitante;
-            
+            $this->visitante = $visitante;  
     }    
 
     public function setId(string $id) {

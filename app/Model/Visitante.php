@@ -7,6 +7,7 @@ class Visitante {
     private $uuid;
     private $nome;
     private $sobrenome;
+    private $email;
     private $telefone;
     private $mensagens;
 
@@ -46,6 +47,14 @@ class Visitante {
 
     public function getSobrenome() {
         return $this->sobrenome;
+    }
+
+    public function setEmail(string $email) {
+        $this->email = $email;
+    }
+
+    public function getEmail() {
+        return $this->email;
     }
 
     public function setTelefone(string $telefone) {
