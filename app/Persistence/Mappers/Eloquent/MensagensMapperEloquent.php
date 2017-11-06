@@ -1,10 +1,10 @@
 <?php
-namespace App\Persitence\Mappers\Eloquent;
-use App\Persitence\Mappers\MensagensMapper;
+namespace App\Persistence\Mappers\Eloquent;
+use App\Persistence\Mappers\MensagensMapper;
 use App\Model\Mensagem;
 
 class MensagensMapperEloquent implements MensagensMapper {
-    public function save(Mensagem $mensagem) {
+    public function save(Mensagem $mensagem) : void {
 
     }
 }

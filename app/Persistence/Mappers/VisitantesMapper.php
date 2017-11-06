@@ -1,7 +1,7 @@
 <?php
-namespace App\Persitence\Mappers;
+namespace App\Persistence\Mappers;
 use App\Model\Visitante;
 
 interface VisitantesMapper {
-    public function save(Visitante $visitante);
+    public function save(Visitante $visitante) : void;
 }
